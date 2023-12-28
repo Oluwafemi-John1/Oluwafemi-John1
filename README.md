@@ -12,7 +12,7 @@ I'm Oluwafemi Oyeniran, a passionate software developer with over two years of h
 
 ## My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oluwafemi-John1&show_icons=true&theme=radical)
 
 ## Featured Projects
 
