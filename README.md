@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hey yo 👋
 
 I'm Oluwafemi Oyeniran, a passionate software developer with over two years of hands-on programming experience. I specialize in web technologies and enjoy building a variety of applications. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🔭 I have over two years of experience in active programming.
-- 🌱 I’m proficient in HTML, CSS, JavaScript, React, NodeJS, Git, Github, Angular, PHP, and SQL.
+- 🌱 I’m proficient in HTML, CSS, Bootstrap, Project management tools, cloud ops, JavaScript, React, NodeJS, MongoDB, Firebase, Git, Github, Angular, PHP, and SQL. I also know GraphQL, NextJS, Data Structure and Algorithms, Responsive web designs and a variety of other technologies.
 - 👯 I enjoy collaborating on diverse projects and have built applications ranging from a bank app and mini Netflix app to a todo app, calculator, budget app, anonymous message app, e-commerce app, and more.
 - 💬 Ask me about web development, programming challenges, or anything related to the projects I've worked on.
 - 📫 You can reach me at [oyeniranoluwafemi36@gmail.com](mailto:oyeniranoluwafemi36@gmail.com).
