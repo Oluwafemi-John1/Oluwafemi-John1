@@ -29,7 +29,7 @@ I'm Oluwafemi Oyeniran, a passionate software developer with over two years of h
 Here are some of the technologies and tools that I work with:
 
 - HTML, CSS, JavaScript
-- React, NodeJS
+- React, NodeJS, Firebase
 - Git, GitHub
 - Angular, PHP, SQL
 
