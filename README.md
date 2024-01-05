@@ -1,6 +1,6 @@
 ### Hey yo 👋
 
-I'm Oluwafemi Oyeniran, a passionate software developer with over two years of hands-on programming experience. I specialize in web technologies and enjoy building a variety of applications. Welcome to my GitHub profile!
+I'm Oluwafemi Oyeniran, a passionate software developer with over two years of hands-on programming experience. I specialize in web technologies and enjoy building a variety of applications. Welcome to my GitHub profile
 
 ## About Me
 
